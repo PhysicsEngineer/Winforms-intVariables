@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\bin\Debug\net6.0-windows\IntDegiskenler.exe
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\bin\Debug\net6.0-windows\IntDegiskenler.deps.json
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\bin\Debug\net6.0-windows\IntDegiskenler.runtimeconfig.json
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\bin\Debug\net6.0-windows\IntDegiskenler.dll
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\bin\Debug\net6.0-windows\IntDegiskenler.pdb
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.Form1.resources
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.AssemblyInfo.cs
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.dll
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\refint\IntDegiskenler.dll
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.pdb
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\IntDegiskenler.genruntimeconfig.cache
+C:\Users\Asus\source\repos\IntDegiskenler\IntDegiskenler\obj\Debug\net6.0-windows\ref\IntDegiskenler.dll
